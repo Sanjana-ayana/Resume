@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Comme:wght@200;300;400;500;600&family=Foldit:wght@100;200;300;400&family=Lato:ital,wght@0,300;0,400;1,100;1,400&family=Satisfy&display=swap');
+        img{
+            float:auto;
+        }
+        body{
+            margin:50px;
+            padding:30px;
+            border:1px solid black;
+            font-family:"Lato";
+            background-color: #9ED8DB;
+        }
+        table{
+            text-align: left;
+            margin:13px;
+        }
+        hr{
+            border:1px dashed #1D3354;
+        }
+        h2{
+            border-left:5px solid #1D3354;
+            padding:5px;
+            color:#03045E;
+        }
+       
+        #experience{
+          vertical-align: text-top;
+        }
+
+       #profile{
+        background-color:#6A7152;
+       }
+
+       a{
+        color:#467599;
+       }
+
+       h3{
+        border-left: 3px double #03045E;
+        padding:5px;
+        color: #1D3354;
+        
+       }
+
+       .sub-heads{
+        color:#467599;
+       }
+       h1{
+        text-decoration:2px solid underline #03045E;
+        color: #03045E;
+       }
+
+       #out{
+        background:#E9FFF9;
+       }
+       
+      
+       button {
+        padding: 1.3em 3em;
+        font-size: 12px;
+        text-transform: uppercase;
+        letter-spacing: 2.5px;
+        font-weight: 500;
+        color: #000;
+        background-color: #fff;
+        border: 1px solid #1D3354;
+        /* border-radius: 45px; */
+        box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+        /* transition: all 0.3s ease 0s; */
+        cursor: url("https://img.icons8.com/dusk/32/null/hand-cursor.png"),default;
+        outline: none;
+        margin:5px;
+        margin-left:0px;
+      }
+      
+      button:hover {
+        background-color: #9ED8DB;
+        box-shadow: 0px 15px 20px #9ED8DB;
+        color: #fff;
+        /* transform: translateY(-7px); */
+      }
+      
+      .button-ig:hover{
+        background-color:#C13584;
+        box-shadow: 0px 15px 20px #C13584;
+        color: #fff;
+       
+      }
+
+      .button-github:hover{
+        background-color: #333;
+        box-shadow: 0px 15px 20px  #333;
+        color: #fff;
+        
+      }
+  
+      .button-spotify:hover{
+        background-color:#1DB954;
+        box-shadow: 0px 15px 20px #1DB954;
+        color: #fff;
+      }
+    
+      .button-linkedin:hover{
+        background-color:#006192;
+        box-shadow: 0px 15px 20px #006192;
+        color: #fff;
+      }
+
+      .button-udemy:hover{
+        background-color:#a435f0;
+        box-shadow: 0px 15px 20px #a435f0;
+        color: #fff;
+      }
+      
+      #linkedin:hover{
+        color:whitesmoke;
+      }
+
+      #udemy:hover{
+        color:black;
+      }
+
+      #spotify:hover{
+        color:black;
+      }
+
+      #github:hover{
+        color:whitesmoke;
+      }
+
+      #instagram:hover{
+        color:white;
+      }
